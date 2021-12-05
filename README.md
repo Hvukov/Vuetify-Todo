@@ -1,4 +1,4 @@
-# todo-aduro-ideja
+# Todo Vue Vuetify
 
 ## Project setup
 ```
