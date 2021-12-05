@@ -13,7 +13,7 @@
         ></v-img>
       </template>
 
-      <v-app-bar-title>My Todo App</v-app-bar-title>
+      <v-app-bar-title>My Todos</v-app-bar-title>
 
       <v-spacer></v-spacer>
 
